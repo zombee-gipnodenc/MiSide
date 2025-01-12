@@ -1,0 +1,79 @@
+header h1 {
+    text-align: center;
+    color: rgb(238, 130, 238);
+}
+
+header a {
+    border: ;
+}
+
+header h3 {
+    background-color: lightgoldenrodyellow;
+    color: pink;
+}
+
+.mita {
+    width: 600px;
+    height: 300px;
+    text-align: center;
+}
+
+body p {
+    background-color: antiquewhite;
+    color: darkmagenta;
+}
+
+body h2 {
+    text-align: center;
+}
+
+body h4 {
+    background-color: cornsilk;
+    color: hotpink;
+}
+
+.koncovka {
+    width: 600px;
+    height: 350px;
+}
+
+body h2 {
+    color: hotpink;
+}
+
+.telephone {
+    width: 600px;
+    height: 300px;
+}
+
+.love {
+    width: 600px;
+    height: 350px;
+}
+
+body h3 {
+    color: plum;
+}
+
+footer p {
+    background-color: black;
+    color: hotpink;
+}
+
+nav {
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid lightcoral;
+    border-radius: 30px;
+}
+
+nav a {
+    margin: 60px;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+main h2 {
+    font-size: 30px;
+    color: lightblue;
+}
